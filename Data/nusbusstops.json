@@ -1,0 +1,206 @@
+{
+  "AS7": {
+    "name": "AS7",
+    "lat": "1.2936110496521",
+    "lng": "103.771942138672",
+    "no": "AS7"
+  },
+  "BIZ 2": {
+    "name": "BIZ 2",
+    "lat": "1.29333305358887",
+    "lng": "103.775001525879",
+    "no": "BIZ2"
+  },
+  "Botanic Gardens MRT": {
+    "name": "Botanic Gardens MRT",
+    "lat": "1.32249999046326",
+    "lng": "103.815002441406",
+    "no": "BG-MRT"
+  },
+  "BTC - Oei Tiong Ham Building": {
+    "name": "BTC - Oei Tiong Ham Building",
+    "lat": "1.31972205638886",
+    "lng": "103.817779541016",
+    "no": "BUKITTIMAH-BTC2"
+  },
+  "Central Library": {
+    "name": "Central Library",
+    "lat": "1.29666996002197",
+    "lng": "103.772453308105",
+    "no": "CENLIB"
+  },
+  "College Green Hostel": {
+    "name": "College Green Hostel",
+    "lat": "1.32333302497864",
+    "lng": "103.816108703613",
+    "no": "CGH"
+  },
+  "COM2 (CP13)": {
+    "name": "COM2 (CP13)",
+    "lat": "1.29416704177856",
+    "lng": "103.773612976074",
+    "no": "COM2"
+  },
+  "Computer Centre": {
+    "name": "Computer Centre",
+    "lat": "1.29694402217865",
+    "lng": "103.772499084473",
+    "no": "COMCEN"
+  },
+  "Kent Ridge Bus Terminal": {
+    "name": "Kent Ridge Bus Terminal",
+    "lat": "1.29416704177856",
+    "lng": "103.769721984863",
+    "no": "KR-BT"
+  },
+  "Kent Ridge MRT": {
+    "name": "Kent Ridge MRT",
+    "lat": "1.29472196102142",
+    "lng": "103.784164428711",
+    "no": "KR-MRT"
+  },
+  "LT13": {
+    "name": "LT13",
+    "lat": "1.29444396495819",
+    "lng": "103.770553588867",
+    "no": "LT13"
+  },
+  "LT29": {
+    "name": "LT29",
+    "lat": "1.29722201824188",
+    "lng": "103.780830383301",
+    "no": "LT29"
+  },
+  "Museum": {
+    "name": "Museum",
+    "lat": "1.30083298683167",
+    "lng": "103.773612976074",
+    "no": "MUSEUM"
+  },
+  "Opp Block EA": {
+    "name": "Opp Block EA",
+    "lat": "1.30027794837952",
+    "lng": "103.769996643066",
+    "no": "BLK-EA-OPP"
+  },
+  "Opp HSSML": {
+    "name": "Opp HSSML",
+    "lat": "1.29277801513672",
+    "lng": "103.775001525879",
+    "no": "HSSML-OPP"
+  },
+  "Opp Kent Ridge MRT": {
+    "name": "Opp Kent Ridge MRT",
+    "lat": "1.29472196102142",
+    "lng": "103.784446716309",
+    "no": "KR-MRT-OPP"
+  },
+  "Opp NUSS": {
+    "name": "Opp NUSS",
+    "lat": "1.29305553436279",
+    "lng": "103.77222442627",
+    "no": "NUSS-OPP"
+  },
+  "Opp PGP Hse No 12": {
+    "name": "Opp PGP Hse No 12",
+    "lat": "1.2936110496521",
+    "lng": "103.776947021484",
+    "no": "PGP12-OPP"
+  },
+  "Opp UHall": {
+    "name": "Opp UHall",
+    "lat": "1.29722201824188",
+    "lng": "103.778053283691",
+    "no": "UHALL-OPP"
+  },
+  "Opp University Health Centre": {
+    "name": "Opp University Health Centre",
+    "lat": "1.29861104488373",
+    "lng": "103.77555847168",
+    "no": "STAFFCLUB-OPP"
+  },
+  "Opp YIH": {
+    "name": "Opp YIH",
+    "lat": "1.29861104488373",
+    "lng": "103.773887634277",
+    "no": "YIH-OPP"
+  },
+  "PGP Hse No 12": {
+    "name": "PGP Hse No 12",
+    "lat": "1.2936110496521",
+    "lng": "103.776947021484",
+    "no": "PGP12"
+  },
+  "PGP Hse No 14 and No 15": {
+    "name": "PGP Hse No 14 and No 15",
+    "lat": "1.29305601119995",
+    "lng": "103.777778625488",
+    "no": "PGP14-15"
+  },
+  "PGP Hse No 7": {
+    "name": "PGP Hse No 7",
+    "lat": "1.29305601119995",
+    "lng": "103.777778625488",
+    "no": "PGP7"
+  },
+  "PGPR": {
+    "name": "PGPR",
+    "lat": "1.29083299636841",
+    "lng": "103.780830383301",
+    "no": "PGP"
+  },
+  "Prince George's Park Terminal": {
+    "name": "Prince George's Park Terminal",
+    "lat": "1.29194402694702",
+    "lng": "103.7802734375",
+    "no": "PGPT"
+  },
+  "Raffles Hall": {
+    "name": "Raffles Hall",
+    "lat": "1.30083298683167",
+    "lng": "103.77278137207",
+    "no": "RAFFLES"
+  },
+  "S17": {
+    "name": "S17",
+    "lat": "1.29722201824188",
+    "lng": "103.780555725098",
+    "no": "S17"
+  },
+  "The Japanese School": {
+    "name": "The Japanese School",
+    "lat": "1.30055594444275",
+    "lng": "103.769721984863",
+    "no": "JAPSCHOOL"
+  },
+  "UHall": {
+    "name": "UHall",
+    "lat": "1.29722201824188",
+    "lng": "103.778610229492",
+    "no": "UHALL"
+  },
+  "University Health Centre": {
+    "name": "University Health Centre",
+    "lat": "1.29861104488373",
+    "lng": "103.776107788086",
+    "no": "STAFFCLUB"
+  },
+  "University Town": {
+    "name": "University Town",
+    "lat": "1.30361104011536",
+    "lng": "103.774444580078",
+    "no": "UTown"
+  },
+  "Ventus (Opp LT13)": {
+    "name": "Ventus (Opp LT13)",
+    "lat": "1.29527795314789",
+    "lng": "103.770278930664",
+    "no": "LT13-OPP"
+  },
+  "YIH": {
+    "name": "YIH",
+    "lat": "1.29888904094696",
+    "lng": "103.774169921875",
+    "no": "YIH"
+  }
+}
